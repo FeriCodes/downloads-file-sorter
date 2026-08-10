@@ -15,3 +15,16 @@ ENV/
 # OS generated files 
 .DS_Store
 Thumbs.db
+
+# Ignore all sorted folders
+Photos/
+Videos/
+Music/
+Documents/
+Compressed/
+Programs/
+Others/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
